@@ -59,8 +59,6 @@ function loadCat(cat){
     divCatBlock.appendChild(divCatInfo)
     divCatInfo.appendChild(catAge)
     divCatInfo.appendChild(catDesc)
-
-
 }
 
 
